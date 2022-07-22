@@ -24,6 +24,7 @@
 
 ### 문제풀이
 
-<p>Template literals, Backslash</p>
-- Multi-line strings : 여러 줄의 문자열을 나눠서 작성할 필요가 없다. 
-- 백슬래시를 문자열로 작성하기 위해서는 \\ 로 작성해야한다.
+- Template literals (`)
+  * Multi-line strings : 여러 줄의 문자열을 나눠서 작성할 필요가 없다.
+- Backslash (\)
+  * 백슬래시를 문자열로 작성하기 위해서는 \\ 로 작성해야한다.
